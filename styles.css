@@ -1,0 +1,30 @@
+        /* Estilo para el borde externo del formulario */
+        .form-border {
+            border: 2px solid rgb(205, 201, 201); /* Cambiar el color y grosor del borde */
+            padding: 20px; /* Espacio interno del borde */
+        }
+
+        /* Estilos para el header */
+        .header {
+            background-color: #f0f0f0;
+            border: 1px solid #ddd;
+            text-align: left;
+            padding: 10px;
+            margin: 0;
+            width: 100%;
+        }
+
+        /* Estilo para la alerta */
+        .alert-danger {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+            color: #721c24;
+        }
+
+
+        /* Estilo para el signo $ */
+        .signo-peso {
+            color: #000; /* Color del texto del signo $ */
+        }
