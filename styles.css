@@ -47,6 +47,7 @@ body {
 /* Estilo para el textarea*/
 #mensaje {
     height: 100px;
+    resize: none;
 }
 
 /* Estilo personalizado para el contenedor del footer */
